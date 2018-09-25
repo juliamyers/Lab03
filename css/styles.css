@@ -1,20 +1,28 @@
-@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+/* @import url('https://fonts.googleapis.com/css?family=Slabo+27px'); */
 body {
-	margin: 0 auto;
+/* 	margin: 0 auto;
 	width: 90%;
 	max-width: 960px;
 	font-family: 'Slabo 27px', serif;
 	background-color: #F4F5FF;
 	color: #2C2C34;
-	margin-bottom: 10px;
+	margin-bottom: 10px; */
+	
+	background-color: #E8E5E5;
+    	color: black;
+    	font-family: monospace;
+    	font-size: 30px;
 }
 
 h1 {
-	text-align: center;
+/* 	text-align: center;
 	font-size: 300%;
 	color: #274060;
-	text-decoration: underline;
+	text-decoration: underline; */
 
+	font-size: 50px;
+	color: white;
+	background-color: #4286f4;
 }
 
 h2 { 
