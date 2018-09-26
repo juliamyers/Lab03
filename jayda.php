@@ -1,10 +1,10 @@
-<?php include "inc/html-top.inc"; ?>
+﻿<?php include "inc/html-top.inc"; ?>
 
 <body>
-
+<div class="container">
 <header>
-	<div class="header">
-		<h1 class="studentName">Jayda Medina</h1>
+	<div>
+		<h1>Jayda Medina</h1>
 	</div>
 </header>
 
@@ -22,6 +22,6 @@
 		<p>When I’m not in class, or studying, I’m doing one of my many extra curriculars. Last semester, some friends and I started Students for Chronic Illness Visibility. This is our first semester as a SA recognized club. We are devoted to spreading awareness about chronic illnesses and promoting accessibility and proper accommodations on campus. One of our goals this year is to create a lending library, where people can borrow braces, mobility aids, and anything else that might getting around campus with a chronic illness easier. We are also working towards getting students with disabilities priority in U of R’s housing lottery. Outside of SCIV, I’m also a member of Strong Jugglers and TOOP. Strong Jugglers is a circus arts club where we perform juggling, flow arts, balancing acts, and other circus arts. TOOP is a student run theatre company. </p>
 
 <?php include "scripts.inc"; ?>
-
+</div>
 </body>
 </html>

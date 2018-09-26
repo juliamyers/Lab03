@@ -1,10 +1,10 @@
-<?php include "inc/html-top.inc"; ?>
+﻿<?php include "inc/html-top.inc"; ?>
 
 <body>
-
+<div class="container">
 <header>
-	<div class="header">
-		<h1 class="studentName">Victoria Bongard</h1>
+	<div>
+		<h1>Victoria Bongard</h1>
 	</div>
 </header>
 
@@ -26,6 +26,6 @@
 		<p>The next logical step in my journey is figuring out my post-grad plans. While I still have lots to figure out, and lots of time to do it, I have been thinking recently about what exactly I would like to do and where I would like to be. I know for a fact that I want to live and work somewhere with winters that are noticeably warmer than those in Rochester. I am interested in film, media, web design, public relations, and marketing, which are skills that I think can be combined easily. I would love to work in media marketing and helping companies grow their brand.</p>
 
 <?php include "scripts.inc"; ?>
-
+</div>
 </body>
 </html>
