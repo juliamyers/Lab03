@@ -9,13 +9,6 @@
 <?php include "inc/navigation.inc"; ?>
 		
 	<div class="studentProfile">
-		<h2>Jonathan Roman</h2>
-		<figure><img src="images/jonathan.jpg" alt="jonathan" class="photo"></figure>
-		<p>My name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. MY hobbies include playing video games and basketball, both of which I participate in groups around campus for.</p>
-		<a href="http://csc174.org/assignment02/jroman8/Assignment02/">Jonathan's Assignment02</a>
-	</div>
-
-	<div class="studentProfile">
 		<h2>Victoria Bongard</h2>
 		<figure><img src="images/victoria.jpg" alt="victoria" class="photo"></figure>
 		<p>My name is Victoria Bongard and I am a junior attending the University of Rochester. I am double majoring in Film and Media Studies and Digital Media Studies with a minor in Computer Science. I was born in Durham, North Carolina and then spent a year of my infancy in New York City before moving to Blacksburg, Virginia for most of the remainder of my childhood. My family moved to Bloomington, Indiana during the summer before I started high school. Two months after moving I began attending Chatham Hall, an all-girls boarding school located in rural southern Virginia. While my family has lived in Indiana for the past 6 years, I have only ever spent breaks there. Thus, I consider myself to be from Virginia and occasionally Indiana, too.</p>
@@ -30,6 +23,17 @@
 		<a href="http://csc174.org/assignment02/jmedina/">Jayda's Assignment02</a>
 	</div>
 
+
+	<div class="studentProfile">
+		<h2>Jonathan Roman</h2>
+		<figure><img src="images/jonathan.jpg" alt="jonathan" class="photo"></figure>
+		<p>My name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. MY hobbies include playing video games and basketball, both of which I participate in groups around campus for.</p>
+		<a href="http://csc174.org/assignment02/jroman8/Assignment02/">Jonathan's Assignment02</a>
+	</div>
+
+
+
+	
 <script src="http://code.jquery.com/jquery.js"></script>
 <script src="js/menu-highlighter.js"></script>
 </body>
