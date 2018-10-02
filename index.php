@@ -6,24 +6,33 @@
 
 <header>
 	<div>
-		<h1>Victoria Bongard</h1>
+		<h1>Homepage</h1>
 	</div>
 </header>
 
 <?php include "inc/navigation.inc"; ?>
+		
+	<h2>Victoria Bongard</h2>
 
-	<img src="images/victoria.jpg" alt="victoria">
+		<figure><img src="images/victoria.jpg" alt="victoria"></figure>
 
-		<h2>Academics</h2>
-		<p>In terms of my academics at the University of Rochester, I have found my study places to be among that which I consider most important to my academic success. I tend to prefer mostly quiet, cozy places to study. In general, I find a loud and crowded space to be too distracting when trying to accomplish work. My favorite study space on campus is Rettner because of the natural lighting, bright colors, and generally quiet atmosphere. It is also very close to much of campus, which is a big bonus.</p>
-	
+		<p>My name is Victoria Bongard and I am a junior attending the University of Rochester. I am double majoring in Film and Media Studies and Digital Media Studies with a minor in Computer Science. I was born in Durham, North Carolina and then spent a year of my infancy in New York City before moving to Blacksburg, Virginia for most of the remainder of my childhood. My family moved to Bloomington, Indiana during the summer before I started high school. Two months after moving I began attending Chatham Hall, an all-girls boarding school located in rural southern Virginia. While my family has lived in Indiana for the past 6 years, I have only ever spent breaks there. Thus, I consider myself to be from Virginia and occasionally Indiana, too.</p>
 
-		<h2>Employment</h2>
-		<p>My first official paid job was as a camp counselor and photographer at the Chatham Hall summer camps (held at my high school). I had various volunteer jobs before then, including as a film camp counselor, another camp counselor, a production assistant, and more. This past summer I worked as a paid counselor at Indiana University’s Digital Cinema Academy camp teaching high school students about film and videography.</p>
-	
+		<a href="http://csc174.org/assignment02/vbongard/assignment02/home.php">Victoria's Assignment02</a>
 
-		<h2>More about me!</h2>
-		<p>The next logical step in my journey is figuring out my post-grad plans. While I still have lots to figure out, and lots of time to do it, I have been thinking recently about what exactly I would like to do and where I would like to be. I know for a fact that I want to live and work somewhere with winters that are noticeably warmer than those in Rochester. I am interested in film, media, web design, public relations, and marketing, which are skills that I think can be combined easily. I would love to work in media marketing and helping companies grow their brand.</p>
+	<h2>Jayda Medina</h2>
+
+		<figure><img src="images/jayda.jpg" alt="jayda"></figure>
+
+		<p>I was born in Manhattan, NY to an immigrant mother from Guyana and a Puerto Rican father. I grew up in Brooklyn, NY. I went to Hebrew Educational Society for pre-kindergarten. Afterwards, I went down the street to P.S.115 for kindergarten - fifth grade. For Junior High I went to I.S.211. In eighth grade I got into Academy for Young Writers, and that’s where I spent the rest of grade school. Recently I moved from Brooklyn, NY to Long Island, but most of my family still lives in Brooklyn. I’ve visited my mother’s home country of Guyana, and the culture is a lot different than it is in America. However, I have never visited Puerto Rican. I am now a student at the University of Rochester.</p>
+		<a href="http://csc174.org/assignment02/jmedina/">Jayda's Assignment02</a>
+
+	<h2>Jonathan Roman</h2>
+
+		<figure><img src="images/jonathan.jpg" alt="jonathan"></figure>
+
+		<p>My name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. MY hobbies include playing video games and basketball, both of which I participate in groups around campus for.</p>
+		<a href="http://csc174.org/assignment02/jroman8/Assignment02/">Jonathan's Assignment02</a>
 
 <?php include "inc/scripts.inc"; ?>
 
