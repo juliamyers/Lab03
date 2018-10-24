@@ -1,11 +1,13 @@
 <?php include "inc/html-top.inc"; ?>
 
 <body>
+
 <header>
 	<div class="header">
 		<h1 class="studentName">Jonathan Roman</h1>
 	</div>
 </header>
+
 <?php include "inc/navigation.inc"; ?>
 
 	
